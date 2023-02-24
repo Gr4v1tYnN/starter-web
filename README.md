@@ -9,7 +9,3 @@ Sample website with plenty of files for demos
 ### Copyright
 
 2014 training
-
-## Contribute
-
-please fork
